@@ -9,7 +9,8 @@ A Machine Learning project that predicts the price of a laptop based on its hard
 - Predicts laptop prices from input features
 
 🛠️ Technologies Used
--Python,
+
+Python,
 -Pandas,
 -NumPy,
 -Matplotlib,
@@ -19,6 +20,7 @@ A Machine Learning project that predicts the price of a laptop based on its hard
 -Pickle
 
 🤖 Machine Learning Models
+
 -Linear Regression,
 -Ridge Regression,
 -Lasso Regression,
@@ -34,6 +36,7 @@ A Machine Learning project that predicts the price of a laptop based on its hard
 -Stacking Regressor
 
 📊 Project Workflow
+
 -Data Collection,
 - Cleaning,
 -Exploratory Data Analysis
