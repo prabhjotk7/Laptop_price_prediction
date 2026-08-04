@@ -11,36 +11,40 @@ A Machine Learning project that predicts the price of a laptop based on its hard
 🛠️ Technologies Used
 
 Python,
--Pandas,
--NumPy,
--Matplotlib,
--Seaborn,
--Scikit-learn,
--XGBoost,
--Pickle
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
+XGBoost,
+Pickle
 
 🤖 Machine Learning Models
 
--Linear Regression,
--Ridge Regression,
--Lasso Regression,
--Decision Tree Regressor,
--Random Forest Regressor,
--Extra Trees Regressor,
--AdaBoost Regressor,
--Gradient Boosting Regressor,
--XGBoost Regressor,
--K-Nearest Neighbors (KNN),
--Support Vector Regressor (SVR),
--Voting Regressor,
--Stacking Regressor
+Linear Regression,
+Ridge Regression,
+Lasso Regression,
+Decision Tree Regressor,
+Random Forest Regressor,
+Extra Trees Regressor,
+AdaBoost Regressor,
+Gradient Boosting Regressor,
+XGBoost Regressor,
+K-Nearest Neighbors (KNN),
+Support Vector Regressor (SVR),
+Voting Regressor,
+Stacking Regressor
 
 📊 Project Workflow
 
--Data Collection,
-- Cleaning,
--Exploratory Data Analysis
-Feature Engineering
+- Load the dataset
+- Preprocess and clean the data
+- Perform feature engineering
+- Train multiple ML models
+- Evaluate model performance
+- Select the best model
+- Save the trained model
+- Predict laptop prices
 Model Training
 Model Evaluation
 Hyperparameter Tuning
