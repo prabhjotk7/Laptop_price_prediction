@@ -2,42 +2,35 @@
 A Machine Learning project that predicts the price of a laptop based on its hardware specifications. The project includes data preprocessing, feature engineering, model training, evaluation, and deployment-ready model serialization.
 
 📌 Features
-Data Cleaning and Preprocessing
-Feature Engineering
-Exploratory Data Analysis (EDA)
-Multiple Regression Models
-Model Comparison
-Best Model Selection
-Pipeline Creation
-Model Serialization using Pickle
+
 🛠️ Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-XGBoost
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
+XGBoost,
 Pickle
 
 🤖 Machine Learning Models
-Linear Regression
-Ridge Regression
-Lasso Regression
-Decision Tree Regressor
-Random Forest Regressor
-Extra Trees Regressor
-AdaBoost Regressor
-Gradient Boosting Regressor
-XGBoost Regressor
-K-Nearest Neighbors (KNN)
-Support Vector Regressor (SVR)
-Voting Regressor
+Linear Regression,
+Ridge Regression,
+Lasso Regression,
+Decision Tree Regressor,
+Random Forest Regressor,
+Extra Trees Regressor,
+AdaBoost Regressor,
+Gradient Boosting Regressor,
+XGBoost Regressor,
+K-Nearest Neighbors (KNN),
+Support Vector Regressor (SVR),
+Voting Regressor,
 Stacking Regressor
 
 📊 Project Workflow
-Data Collection
-Data Cleaning
+Data Collection,
+Data Cleaning,
 Exploratory Data Analysis
 Feature Engineering
 Model Training
