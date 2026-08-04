@@ -2,6 +2,11 @@
 A Machine Learning project that predicts the price of a laptop based on its hardware specifications. The project includes data preprocessing, feature engineering, model training, evaluation, and deployment-ready model serialization.
 
 📌 Features
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Model training using multiple regression algorithms
+- Model evaluation
+- Predicts laptop prices from input features
 
 🛠️ Technologies Used
 Python,
